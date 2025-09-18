@@ -1,4 +1,4 @@
-aiohttp~=3.9.3
+aiohttp~=3.12.15
 pytest~=8.3.3
 huggingface_hub~=0.23.2
 numpy~=1.26.4
